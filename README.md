@@ -1,4 +1,4 @@
-"# Pi" 
+#Simple Method to Calculate Pi using Montecarlo simulation
 The method used square with a inside circle. The x-Axis and y-Axis goes from -1 to 1 and the radio for the inside circle is 1. 
 
 In order to approach this method you can formulate the questions ***what is the probability of a any random number for a pair (x,y) will be inside the circle?***. Let's define *P* as this probability
