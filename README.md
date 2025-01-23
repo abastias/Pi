@@ -10,6 +10,8 @@ In order to approach this method you can formulate the questions ***what is the 
 Lest's calculate the area of a square, and a circle inside the square. We can asume the cicle radio is **r**, and the side of the square is **2r**
 
 
+The area of a square is $4r^2$.
+
 <img src="https://render.githubusercontent.com/render/math?math=SquareArea = \ (2*r)*(2*r) = 4*r^2">
 <img src="https://render.githubusercontent.com/render/math?math=CicleArea = \Pi*r^2">
 
